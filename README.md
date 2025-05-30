@@ -1,6 +1,6 @@
 # medical-diagnosis-expert-syste
 A rule-based expert system for medical diagnosis using CLIPS and Python
-# 🩺 Medical Diagnosis Expert System 🩺
+# 🩺 Medical Diagnosis Expert System🩺
 
 A symbolic AI system that simulates medical diagnosis using CLIPS rule-based reasoning and Python-based data handling.
 
