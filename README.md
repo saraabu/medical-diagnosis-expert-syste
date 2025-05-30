@@ -1,4 +1,4 @@
-# medical-diagnosis-expert-syste
+# medical-diagnosis-expert-system
 A rule-based expert system for medical diagnosis using CLIPS and Python
 # 🩺 Medical Diagnosis Expert System🩺
 
