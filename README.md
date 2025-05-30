@@ -1,18 +1,18 @@
 # medical-diagnosis-expert-syste
 A rule-based expert system for medical diagnosis using CLIPS and Python
-# 🩺 Medical Diagnosis Expert System
+# 🩺 Medical Diagnosis Expert System 🩺
 
 A symbolic AI system that simulates medical diagnosis using CLIPS rule-based reasoning and Python-based data handling.
 
 ---
 
-## 🧠 Overview
+##  Overview
 
 This project is a medical expert system that takes in patient symptoms and returns likely diagnoses along with recommended precautions. It combines structured medical datasets, rule-based knowledge representation, and a simple prototype user interface.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 | File | Description |
 |------|-------------|
@@ -27,7 +27,7 @@ This project is a medical expert system that takes in patient symptoms and retur
 
 ---
 
-## ⚙️ Tools & Technologies
+##  Tools & Technologies
 
 - **CLIPS**: Rule-based expert system engine
 - **Python + Jupyter Notebook**
@@ -36,7 +36,7 @@ This project is a medical expert system that takes in patient symptoms and retur
 
 ---
 
-## 🎯 Features
+##  Features
 
 - Rule-based diagnosis from symptom inputs
 - Severity-weighted symptom processing
@@ -46,13 +46,13 @@ This project is a medical expert system that takes in patient symptoms and retur
 
 ---
 
-## ✍️ My Role
+##  My Role
 
 I designed the rule base in CLIPS, developed the data processing pipeline in Python, and built a simple UI prototype to demonstrate the interaction between symptoms and medical logic.
 
 ---
 
-## 📈 Sample Use Case
+##  Sample Use Case
 
 > **Input:** ['fatigue', 'high_fever', 'cough']  
 > **Output:** Likely condition: *Typhoid*  
@@ -60,7 +60,7 @@ I designed the rule base in CLIPS, developed the data processing pipeline in Pyt
 
 ---
 
-## 🔗 Future Enhancements
+##  Future Enhancements
 
 - Add real-time UI for diagnosis
 - Convert CLIPS rules to Python-native logic
@@ -68,7 +68,7 @@ I designed the rule base in CLIPS, developed the data processing pipeline in Pyt
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 
 **Sara A.**  
 Recent Computer Science graduate specializing in Data Science & Big Data  
